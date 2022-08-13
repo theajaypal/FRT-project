@@ -9,3 +9,5 @@ Link of my project(website) : https://white-pond-0b7a40710.1.azurestaticapps.net
 
 Steps followed during project
 
+
+![FRT1](https://user-images.githubusercontent.com/72907237/184509362-6d729c99-63ac-46fa-b396-a893645cb088.jpg)

@@ -1,8 +1,9 @@
 # FRT-Project
-This is Static webpage for Sweet shop .
-This project is built using HTML, CSS,JavaScript, AZURE BOT SERVICE, AZURE STATIC WEB APP.
-You can chek the price of different available sweets 
-and you can place the order using Bot which is present in website.
+
+This is a Static webpage for Sweet shop.
+This project is built using HTML, CSS, JavaScript, AZURE BOT SERVICE, and AZURE STATIC WEB APP.
+You can check the price of different available sweets and we can place the order using Bot, which is present on the website.
+
 
 Link of my project(website) : https://white-pond-0b7a40710.1.azurestaticapps.net
 
